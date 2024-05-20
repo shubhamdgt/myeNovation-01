@@ -1,0 +1,7 @@
+{
+  "name": "myeNovation-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
